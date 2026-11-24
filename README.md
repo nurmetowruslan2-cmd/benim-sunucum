@@ -1,0 +1,2 @@
+# benim-sunucum
+Vps
